@@ -1,0 +1,70 @@
+.plan{
+    width: 70%;
+    background-color: rebeccapurple;
+    height: 700px;
+    float: left;
+    margin-left: 15%;
+}
+p{
+    text-align: center;
+   font-size: 40px;
+   color: rgb(129, 216, 112);
+}
+.submit{
+    width: 50%;
+    margin-left: 43%;
+    margin-top: -43px;
+    height: 5%;
+}
+.valider{
+    background-color: green;
+}
+.annuler{
+    background-color: red;
+}
+.nbrechamps{
+    margin-left: 42%;
+    margin-top: -52px;
+    float: left;
+   
+}
+.Mots{
+    width: 500px;
+    height: 700px;
+}
+.numero{
+    width: 100%;
+    margin-left: 44%;
+   height: 5%;
+   float: left;
+}
+h4{
+   
+   margin-left: 85%;
+   text-align-last: center;
+   float: left;
+}
+.resultat{
+   margin-top: 5%;
+   margin-left: 23pc;
+   width: 47%;
+   height: 5%;
+   background-color: yellow;
+}
+.erreur{
+    float: left;
+    margin-left: 47%;
+    font-size: 22px;
+}
+.affiche{
+    width: 70%;
+    
+    margin-top: -85%;
+    float: left;
+    margin-left: 57%;
+    background-color: rosybrown;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+}
