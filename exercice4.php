@@ -16,7 +16,7 @@ else{
     }
     else{
         if(is_chaine_setence($nbrephrases)){
-
+//test
             $message="valider";
         }
         else{
