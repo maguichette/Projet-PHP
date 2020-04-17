@@ -1,0 +1,155 @@
+.font{
+    height: 70px;
+    width: 100%;
+    background-color: rgb(5, 36, 38);
+}
+.logo{
+    margin-left: 30px;
+    height: 100%;
+    width:6%;
+}
+.logo img{
+    width: 100%;
+    height: 100%;
+}
+.para{
+    text-align: center;
+    margin-top: -60px;
+    color: white;
+    font-size: 20px;
+}
+body{
+    background-image: url(Images/img-bg.jpg);
+    margin: 0px;
+    padding: 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form{
+   width: 95%;
+    background-color:rgb(128, 128, 128);
+    height: 50pc;
+   margin-top: 24px;
+   margin-left: 350px;
+   position: relative;
+   margin-left: 33px;
+  
+    }
+    .couleur{
+        width: 100%;
+        height: 100px;
+        background-color: rgb(81,191,208);
+    }
+    h1{
+        font-size: 40px;
+        color: white;
+        margin-left: 185px;
+        margin-top: 40px;
+        float: left;
+        text-align: center;
+    }
+    .connex{
+        display: inline-block;
+        height: 60px;
+        width:170px;
+        background: rgb(81,191,208);
+        color:#fff;
+        font-size:27px;
+        margin-top: 20px;
+    }    
+    .profil{
+        width: 60%;
+        background-color: white;
+        height: 85%;
+        float: left;
+        margin-left: 37%;
+    }
+   .listes{
+       border: 1px solid rgba(0, 195, 255, 0.979);
+       height: 66%;
+       padding: 4%;
+       width: 70%;
+       margin-left: 10%;
+       margin-top: 2%;
+   }
+   table{
+       width: 100%;
+       font-size: 20px;
+       color: black; 
+   }
+   td{
+       color: black;
+       
+   }
+   .score{
+       font-size: 20px;
+       text-align: center;
+       color: rgba(0, 0, 0, 0.5);
+   }
+    .menu{
+        background-color: white;
+        width:33%;
+        height: 50%;
+        margin-top: 162px;
+        margin-left: 1%;
+    }
+    .image{
+        background-color:rgba(0, 195, 255, 0.979) ;
+        width: 100%;
+        height:35% ;
+    }
+    .myprofil{
+        width: 27%;
+        height: 34%;
+        background-color:rgba(0, 195, 255, 0.979) ;
+        float: right;
+       margin-right: 10%;
+        margin-top: -35%;
+        border-radius: 50%;
+    }
+    
+    
+    
+        p.avatar{
+            font-size: 20px;
+            float: left;
+            margin-left: 7%;
+            color: black;
+                }
+                .monlogo{
+                    width: 27%;
+                    height: 100px;
+                    margin-top: -35%;
+                    border-radius: 50%;
+                    border: 1px solid black;
+                }
+                .monlogo img{
+                    width: 100%;
+                    height: 100%;
+                    border-radius: 50%;
+                    margin-top: -367%;
+                }
+               
+              .ordonnée{
+                  height: 30px;
+                  margin-bottom: 15px;
+                  padding: 10px;
+              }
+              ul{
+               
+                margin: 0px; 
+            }
+            ul li{
+                list-style: none;
+               float: left;
+               font-size: 25px;
+               margin-left: -42px;
+               margin-top: -510px;
+            } 
+            ul a {
+                text-decoration: none;
+            }
+            .ordonnée img{
+                margin-top: 2px;
+            }
+            

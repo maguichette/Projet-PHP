@@ -1,0 +1,77 @@
+.profil{
+    width: 60%;
+    background-color: white;
+    height: 60%;
+    float: left;
+    margin-left: 37%;
+}
+h2{
+    font-size: 30px;
+    margin-right: 70%;
+    color: black;
+}
+ h3{
+    font-size: 15px;
+    margin-right: 70%;
+    margin-top: -3%;
+    color: black;
+}
+.bar{
+    width: 50%;
+    height: 1%;
+    background-color: grey;
+}
+label{
+    width: 50%;
+    height: 17px;
+    font-size: 15px;
+    color: black;
+    float:left;
+    
+}
+input[type="text"]{
+    border-radius: 10%;
+    margin-right: 70% ;
+    width: 99%;
+}
+input[type="nom"]{
+    border-radius: 10%;
+    margin-right: 70% ;
+    width: 99%;
+}
+input[type="login"]{
+    border-radius: 10%;
+    margin-right: 70% ;
+    width: 99%;
+}
+input[type="password"]{
+    border-radius: 10%;
+    margin-right: 70% ;
+    width: 99%;
+}
+input[type="confirmer password"]{
+    border-radius: 10%;
+    margin-right: 70% ;
+    width: 99%;
+}
+.myinput{
+    width: 37%;
+    height: 58%;
+}
+#btn1{
+    margin-top: 6%;
+    margin-left: 40%;
+    background-color:rgba(0, 195, 255, 0.979) ;
+}
+.btn2{
+    background-color: rgba(0, 195, 255, 0.979);
+    margin-top: 5%;
+    float: left;
+    margin-left: 40%;
+}
+p.avatar{
+    font-size: 20px;
+    float: left;
+    margin-left: 7%;
+    color: black;
+        }
